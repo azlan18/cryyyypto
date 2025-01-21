@@ -8,7 +8,7 @@ const LandingPage = () => {
       <section className="bg-gradient-to-r from-slate-950 to-primary-slate-600 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl font-extrabold sm:text-5xl md:text-6xl">Yo this is dancepool here</h1>
+            <h1 className="text-4xl font-extrabold sm:text-5xl md:text-6xl">Hey, I'm a collaborator</h1>
             <p className="mt-3 max-w-md mx-auto text-xl sm:text-2xl md:mt-5 md:max-w-3xl">
               Your gateway to the world of cryptocurrencies
             </p>
