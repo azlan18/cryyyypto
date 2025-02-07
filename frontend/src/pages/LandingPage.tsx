@@ -14,7 +14,7 @@ const LandingPage = () => {
             </p>
             <div className="mt-10 flex justify-center">
               <Button size="lg" className="mr-4">
-                Get Started
+                Get Started, Azlan
               </Button>
               <Button size="lg" variant="outline" className="text-black">
                 Learn More
